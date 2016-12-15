@@ -11,7 +11,7 @@
   <colour>12632256</colour>
   <showcolour>0</showcolour>
   <code>global.attached = false
-MakePuzzle()
+MakePuzzleNew()
 instance_create(0, 0, winChecker)</code>
   <enableViews>0</enableViews>
   <clearViewBackground>-1</clearViewBackground>

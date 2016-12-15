@@ -35,6 +35,7 @@
     <script>scripts\ReleasePiece.gml</script>
     <script>scripts\MarkerRelease.gml</script>
     <script>scripts\MakePuzzle.gml</script>
+    <script>scripts\MakePuzzleNew.gml</script>
     <script>scripts\CheckWin.gml</script>
   </scripts>
   <objects name="objects">
