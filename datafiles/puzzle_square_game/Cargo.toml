@@ -1,0 +1,6 @@
+[package]
+name = "puzzle_square_game"
+version = "0.1.0"
+authors = ["mtaurone <arshiahf@gmail.com>"]
+
+[dependencies]
