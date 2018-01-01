@@ -4,3 +4,10 @@ version = "0.1.0"
 authors = ["mtaurone <arshiahf@gmail.com>"]
 
 [dependencies]
+
+[lib]
+name = "hint_lib"
+crate-type = ["dylib"]
+
+[workspace]
+members = ["src\\*.rs"]
